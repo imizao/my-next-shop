@@ -16,4 +16,4 @@ You can start editing the page by modifying `pages/index.tsx`. The page auto-upd
 
 ## Explain
 
-This project is modeled after [another](https://github.com/imizao/simple-react-shop) open source project (this project is also modeled after simple-vue-shop)
+This project is modeled after [simple-react-shop](https://github.com/imizao/simple-react-shop) open source project (this project is also modeled after [simple-vue-shop](https://github.com/sdras/sample-vue-shop))
